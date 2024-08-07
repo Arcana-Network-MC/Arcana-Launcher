@@ -1,7 +1,7 @@
 {
     "name": "Metro2033-Launcher",
     "preductname": "Metro2033 Launcher",
-    "version": "1.0.4",
+    "version": "1.0.0",
     "description": "Launcher Minecraft temporaire",
     "main": "src/app.js",
     "author": {
