@@ -1,7 +1,7 @@
 {
     "name": "Arcana-Launcher",
     "preductname": "Arcana-Launcher",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "description": "Launcher Minecraft du network Arcana",
     "main": "src/app.js",
     "author": {
